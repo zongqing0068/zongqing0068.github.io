@@ -55,4 +55,4 @@ Education 🎓
 Contact me!
 ------
 
-You can reach me at $zongqing0068@gmail.com$
+You can reach me at zongqing0068@gmail.com
