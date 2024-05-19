@@ -30,8 +30,11 @@ Awards 🏆
 - National Scholarship \(top 2%, HITsz, 2023\)
 - Sailvan Times Computing Star Scholarship \(top 0.6%, HITsz, 2023\)
 - First-class Academic Scholarship in 2022/23 \(top 5%, HITsz, 2023\)
+- 'Excellent student model' honorary title
 - First-class Academic Scholarship in 2021/22 \(top 5%, HITsz, 2022\)
-- The National Grand Prize in the 12th National College Students E-commerce “Innovation, Creativity and Entrepreneurship” Challenge \(Rank 9 among 133,729 Teams, 2022\)
+- The National Special Prize and the Best Innovation Award in the 12th National College Students E-commerce “Innovation, Creativity and Entrepreneurship” Challenge \(Rank 9 among 133,729 Teams, 2022\)
+- Provincial 1st Prize and in [Contemporary Undergraduate Mathematical Contest in Modeling](http://en.mcm.edu.cn/) \(2022\)
+- Honorable Mention Award in [the Mathematical Contest in Modeling](https://www.comap.com/contests/mcm-icm) \(2022\)
 - National Scholarship \(top 2%, HITsz, 2021\)
 - First-class Academic Scholarship in 2020/21 \(top 5%, HITsz, 2021\)
 
