@@ -33,7 +33,7 @@ Awards 🏆
 - "Excellent Student Model" Honorary Title \(top 0.2%, HITsz, 2022\)
 - First-class Academic Scholarship in 2021/22 \(top 5%, HITsz, 2022\)
 - The National Special Prize and the Best Innovation Award in the 12th [National College Students E-commerce "Innovation, Creativity and Entrepreneurship" Challenge](http://www.3chuang.net/) \(Rank 9 among 133,729 Teams, 2022\)
-- Provincial first Prize in [Contemporary Undergraduate Mathematical Contest in Modeling](http://en.mcm.edu.cn/) \(2022\)
+- Provincial 1st Prize in [Contemporary Undergraduate Mathematical Contest in Modeling](http://en.mcm.edu.cn/) 
 - Honorable Mention Award in [the Mathematical Contest in Modeling](https://www.comap.com/contests/mcm-icm) \(2022\)
 - "Excellent Student Leader Model" Honorary Title \(top 0.4%, HITsz, 2022\)
 - National Scholarship \(top 2%, HITsz, 2021\)
@@ -44,13 +44,15 @@ Education 🎓
 ------
 
 **The Hong Kong University of Science and Technology**
-  - Doctor of Philosophy in Computer Science and Engineering, *2024-now*
+  - Doctor of Philosophy in Computer Science and Engineering, *2024 - now*
 
 **Harbin Institute of Technology \(Shenzhen\)**
-  - Bachelor's Degree in Computer Science and Technology, *2020-2024*
+  - Bachelor's Degree in Computer Science and Technology, *2020 - 2024*
 
 **Jiangsu Tianyi High School**
-  - High School Diploma in Science, *2017-2020*
+  - High School Diploma in Science, *2017 - 2020*
+
+
 
 Contact me!
 ------
