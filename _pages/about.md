@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Welcome to my homepage. I'm a senior student at the Department of Computer Science and Engineering in Harbin Institute of Technology \(Shenzhen\).
+Hi! Welcome to my homepage. I'm a senior student at the Department of Computer Science and Engineering in Harbin Institute of Technology .
 
 
 A data-driven personal website
