@@ -23,6 +23,17 @@ I’m mainly interested in the research of Natural Language Processing.
 - Abstraction Knowledge
 - Multimodal Learning
 
+
+Awards 🏆
+------
+- Hong Kong Ph.D. Fellowship \(2024-2028\)
+- National Scholarship \(top 2%, HITsz, 2023\)
+- First-class Academic Scholarship in 2022/23 \(top 5%, HITsz, 2023\)
+- First-class Academic Scholarship in 2021/22 \(top 5%, HITsz, 2022\)
+- National Scholarship \(top 2%, HITsz, 2021\)
+- First-class Academic Scholarship in 2020/21 \(top 5%, HITsz, 2021\)
+
+
 Education 🎓
 ------
 
@@ -34,7 +45,3 @@ Education 🎓
 
 **Jiangsu Tianyi High School**
   - High School Diploma in Science, *2017-2020*
-
-Awards 🏆
-------
-
