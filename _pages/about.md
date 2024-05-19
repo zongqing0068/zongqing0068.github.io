@@ -25,10 +25,13 @@ I’m mainly interested in the research of Natural Language Processing.
 
 Education 🎓
 ------
+
 **The Hong Kong University of Science and Technology**
   - Doctor of Philosophy in Computer Science and Engineering, *2024-now*
+
 **Harbin Institute of Technology \(Shenzhen\)**
   - Bachelor's Degree in Computer Science and Technology, *2020-2024*
+
 **Jiangsu Tianyi High School**
   - High School Diploma in Science, *2017-2020*
 
