@@ -33,7 +33,7 @@ Awards 🏆
 - 'Excellent Student Model' Honorary Title \(top 0.2%, HITsz, 2022\)
 - First-class Academic Scholarship in 2021/22 \(top 5%, HITsz, 2022\)
 - The National Special Prize and the Best Innovation Award in the 12th National College Students E-commerce “Innovation, Creativity and Entrepreneurship” Challenge \(Rank 9 among 133,729 Teams, 2022\)
-- Provincial 1st Prize and in [Contemporary Undergraduate Mathematical Contest in Modeling](http://en.mcm.edu.cn/) \(2022\)
+- Provincial 1st Prize in [Contemporary Undergraduate Mathematical Contest in Modeling](http://en.mcm.edu.cn/) \(2022\)
 - Honorable Mention Award in [the Mathematical Contest in Modeling](https://www.comap.com/contests/mcm-icm) \(2022\)
 - 'Excellent Student Leader Model' Honorary Title \(top 0.4%, HITsz, 2022\)
 - National Scholarship \(top 2%, HITsz, 2021\)
