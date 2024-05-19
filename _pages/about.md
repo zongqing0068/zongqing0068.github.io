@@ -28,8 +28,10 @@ Awards 🏆
 ------
 - Hong Kong Ph.D. Fellowship \(2024-2028\)
 - National Scholarship \(top 2%, HITsz, 2023\)
+- Sailvan Times Computing Star Scholarship \(top 0.6%, HITsz, 2023\)
 - First-class Academic Scholarship in 2022/23 \(top 5%, HITsz, 2023\)
 - First-class Academic Scholarship in 2021/22 \(top 5%, HITsz, 2022\)
+- The National Grand Prize in the 12th National College Students E-commerce “Innovation, Creativity and Entrepreneurship” Challenge \(Rank 9 among 133,729 Teams, 2022\)
 - National Scholarship \(top 2%, HITsz, 2021\)
 - First-class Academic Scholarship in 2020/21 \(top 5%, HITsz, 2021\)
 
