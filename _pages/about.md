@@ -51,3 +51,8 @@ Education 🎓
 
 **Jiangsu Tianyi High School**
   - High School Diploma in Science, *2017-2020*
+
+Contact me!
+------
+
+You can reach me at $zongqing0068@gmail.com$
