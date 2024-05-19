@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Welcome to my homepage. I'm a senior student at the Department of Computer Science and Engineering in Harbin Institute of Technology .
+Hi! Welcome to my homepage. I’m Qing Zong \(宗晴\), a Ph.D. student at the [Department of Computer Science and Engineering](https://cse.hkust.edu.hk/) in [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/) .
 
 
 A data-driven personal website
