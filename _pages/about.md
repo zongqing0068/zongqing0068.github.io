@@ -22,14 +22,27 @@ I’m mainly interested in the research of Natural Language Processing.
 - Conceptual Reasoning
 - Multimodal Learning
 
-## Publications
+Publications 📝
+------
 
 **[Conference]**
 
 - **AbsInstruct: Eliciting Abstraction Ability from LLMs through Explanation Tuning with Plausibility Estimation**
   <br>Zhaowei Wang, Wei Fan, **<font color="#000066">Qing Zong</font>**, Hongming Zhang, Sehyun Choi, Tianqing Fang, Xin Liu, Yangqiu Song, Ginny Y. Wong, Simon See
-  <br>*Conference on Association for Computational Linguistics (ACL) 2024.*
+  <br>*Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL) 2024.*
   <br>[[paper]](https://arxiv.org/abs/2402.10646)[[code]](https://github.com/HKUST-KnowComp/AbsInstruct)
+- **TILFA: A unified framework for text, image, and layout fusion in argument mining**
+  <br>**<font color="#000066">Qing Zong</font>**, Zhaowei Wang, Baixuan Xu, Tianshi Zheng, Haochen Shi, Weiqi Wang, Yangqiu Song, Ginny Y Wong, Simon See
+  <br>*Proceedings of the 10th Workshop on Argument Mining 2023.*
+  <br>[[paper]](https://arxiv.org/abs/2310.05210)[[code]](https://github.com/HKUST-KnowComp/TILFA)
+- **KnowComp Submission for WMT23 Sign Language Translation Task**
+  <br>Baixuan Xu, Haochen Shi, Tianshi Zheng, **<font color="#000066">Qing Zong</font>**, Weiqi Wang, Zhaowei Wang, Yangqiu Song
+  <br>*Proceedings of the Eighth Conference on Machine Translation 2023.*
+  <br>[[paper]](https://aclanthology.org/2023.wmt-1.36/)[[code]](https://github.com/HKUST-KnowComp/SLT)
+- **Glyph Features Matter: A Multimodal Solution for EvaHan in LT4HALA2022**
+   <br>Wei Xinyuan, Liu Weihao, **<font color="#000066">Qing Zong</font>**, Zhang Shaoqing, Baotian Hu
+  <br>*Proceedings of the Second Workshop on Language Technologies for Historical and Ancient Languages 2022.*
+  <br>[[paper]](https://aclanthology.org/2022.lt4hala-1.28/)
 
   
 Awards 🏆
