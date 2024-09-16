@@ -20,6 +20,7 @@ I’m mainly interested in the research of Natural Language Processing.
 
 - Long Tail Knowledge
 - Conceptual Reasoning
+- Argument Mining
 - Multimodal Learning
 
 Publications 📝
