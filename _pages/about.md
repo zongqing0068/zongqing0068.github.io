@@ -24,6 +24,7 @@ I’m mainly interested in the research of Natural Language Processing.
 
 Publications 📝
 ------
+You can also find my publications on [my Google Scholar profile](https://scholar.google.com/citations?user=xclID-4AAAAJ&hl=en&oi=ao).
 
 **[Conference]**
 
