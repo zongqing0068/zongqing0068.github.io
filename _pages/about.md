@@ -25,12 +25,9 @@ I’m mainly interested in the research of Natural Language Processing.
 ## Publications
 
 **[Conference]**
-- **Chain-of-Choice Hierarchical Policy Learning for Conversational Recommendation**
-  <br>**<font color="#000066">Wei Fan</font>**, Weijia Zhang, Weiqi Wang, Yangqiu Song, Hao Liu
-  <br>*Conference on Database Systems for Advanced Applications (DASFAA) 2024.* ***<font color="#FF0000">Oral</font>***
-  <br>[[paper]](https://arxiv.org/abs/2310.17922)[[code]](https://github.com/AlexFanw/CoCHPL)
+
 - **AbsInstruct: Eliciting Abstraction Ability from LLMs through Explanation Tuning with Plausibility Estimation**
-  <br>Zhaowei Wang, **<font color="#000066">Wei Fan</font>**, Qing Zong, Hongming Zhang, Sehyun Choi, Tianqing Fang, Xin Liu, Yangqiu Song, Ginny Y. Wong, Simon See
+  <br>Zhaowei Wang, Wei Fan, **<font color="#000066">Qing Zong</font>**, Hongming Zhang, Sehyun Choi, Tianqing Fang, Xin Liu, Yangqiu Song, Ginny Y. Wong, Simon See
   <br>*Conference on Association for Computational Linguistics (ACL) 2024.*
   <br>[[paper]](https://arxiv.org/abs/2402.10646)[[code]](https://github.com/HKUST-KnowComp/AbsInstruct)
 
