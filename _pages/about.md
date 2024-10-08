@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qing Zong 宗晴"
+title: "Qing ZONG 宗晴"
 author_profile: true
 redirect_from: 
   - /about/
