@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Qing Zong 宗晴"
+title                    : "Qing ZONG 宗晴"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "me.jpg"
-  name             : "Qing Zong 宗晴"
+  name             : "Qing ZONG 宗晴"
   pronouns         : # example: "she/her"  
   bio              : "First Year Ph.D. in HKUST"
   location         : "Hong Kong SAR, China"
