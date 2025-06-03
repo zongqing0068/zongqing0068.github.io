@@ -19,8 +19,8 @@ Research Interest 💡
 I’m mainly interested in the research of Natural Language Processing.
 
 - Long Tail Knowledge
+- Uncertainty Estimation
 - Conceptual Reasoning
-- Argument Mining
 - Multimodal Learning
 
 Publications 📝
@@ -29,6 +29,10 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 
 **[Conference]**
 
+- **ComparisonQA: Evaluating Factuality Robustness of LLMs Through Knowledge Frequency Control and Uncertainty**
+  <br>Qing Zong, Zhaowei Wang, Tianshi Zheng, Xiyu Ren, Yangqiu Song
+  <br>*Findings of the 63nd Annual Meeting of the Association for Computational Linguistics (ACL) 2025.*
+  <br>[[paper]](https://arxiv.org/pdf/2412.20251)[[code]](https://github.com/HKUST-KnowComp/ComparisonQA)
 - **AbsInstruct: Eliciting Abstraction Ability from LLMs through Explanation Tuning with Plausibility Estimation**
   <br>Zhaowei Wang, Wei Fan, **<font color="#000066">Qing Zong</font>**, Hongming Zhang, Sehyun Choi, Tianqing Fang, Xin Liu, Yangqiu Song, Ginny Y. Wong, Simon See
   <br>*Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL) 2024.*
